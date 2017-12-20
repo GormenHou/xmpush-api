@@ -1,8 +1,8 @@
 
 
-var SendAlias = require('../lib/sendAliasMessage');
+var SendAliasMessage = require('../lib/sendAliasMessage');
 
-SendAlias('your appSecret', {
+SendAliasMessage('your appSecret', {
     payload: 'hello workd',
     title: 'hello workd',
     description: 'hello workd',
