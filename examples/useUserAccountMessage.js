@@ -9,7 +9,7 @@ SendUserAccountMessage('your appSecret', {
     notifyType: 5,
     restrictedPackageNames: ['your apk name'],
     passThrough: 1, //0: 通知栏消息，1: 透传消息
-    notifyId : 0,
+    notifyId : -1,
     user_account: 'wolrd',
     extra: {
         'notify_foreground': 1,
