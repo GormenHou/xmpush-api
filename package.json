@@ -1,6 +1,6 @@
 {
   "name": "xmpush-api",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "基于小米官方v3版本的推送，只支持android的alias推送和广播推送",
   "main": "index.js",
   "scripts": {
