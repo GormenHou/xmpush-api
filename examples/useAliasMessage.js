@@ -13,6 +13,7 @@ SendAliasMessage('your appSecret', {
     alias: 'wolrd',
     extra: {
         'notify_foreground': 1,
+        'notify_effect': 2,
         'click_intent_uri': 'hahhahha'
     }
 }, function(err, body, res) {

@@ -14,6 +14,7 @@ SendTopicMessage('your appSecret', {
     topic_op: 'UNION', //UNION : 并集, A∪B∪C∪D, INTERSECTION : 交集, A ∩B ∩C∩D, EXCEPT : 差集, A-B-C-D;
     extra: {
         'notify_foreground': 1,
+        'notify_effect': 2,
         'click_intent_uri': 'hahhahha'
     }
 }, function(err, body, res) {
