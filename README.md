@@ -11,7 +11,7 @@ https://dev.mi.com/console/doc/detail?pId=1163
 using npm:
 
 ``` bash
-npm install -save xmpush-api
+npm install --save xmpush-api
 ```
 
 In Node.js
