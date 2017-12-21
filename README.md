@@ -6,6 +6,7 @@ https://dev.mi.com/console/doc/detail?pId=1163
 
 我司一开始使用的是alias消息，所以这个是测试过，可以参考examples里面的用例；
 我司现在使用的是：UserAccount消息(单个用户消息),广播消息(使用Topic)
+此包现在只提供了我司用到的一些功能。
 
 # Installation
 using npm:
